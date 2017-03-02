@@ -241,7 +241,8 @@ section#about .about-item {
   text-align: center;
   font-size: 17px;
   line-height: 25px;
-  color: #999999;
+//  color: #999999;
+  color: #666666;
 }
 section#about .about-item i.fa {
   -webkit-border-radius: 50%;
